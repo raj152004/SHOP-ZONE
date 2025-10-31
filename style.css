@@ -69,11 +69,21 @@ body {
     background: #095ac1;
 }
 
+
 .login-box p {
     margin-top: 15px;
     font-size: 14px;
     color: #666;
 }
+
+.password-note {
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+    margin-top: -20px;
+    margin-bottom: 10px; 
+}
+
 
 .login-box a {
     color: #0b74ff;
